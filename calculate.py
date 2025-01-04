@@ -1,6 +1,6 @@
-"def add(a, b):" 
-"    return a + b" 
-"def subtract(a, b):" 
-"    return a - b" 
-"    return a + b  # Bug introduced: wrong return statement" 
-"    return a + b  # Bug introduced: wrong return statement" 
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b  # Fixed the bug
+ 
